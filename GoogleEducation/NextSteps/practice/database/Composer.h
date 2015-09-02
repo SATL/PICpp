@@ -1,8 +1,13 @@
 // composer.h: Eslem Alzate
 // Description: The class for a Composer record.
+
+#include <iostream>
+using namespace std;
+
 const int kDefaultRanking = 10;
 
 class Composer {
+  
  public:
   Composer();
   ~Composer();
