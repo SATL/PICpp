@@ -19,5 +19,8 @@ int main(){
 }
 
 void accelerate(int &speed, int ammount){
+	//C++ is great for this: & is the reference and you don't have to parse it:
+	// int *pointer_speed = &speed;
+	// *pointer_speed = *pointer_speed+ammount;
 	speed+=ammount;
 }
