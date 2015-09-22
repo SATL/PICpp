@@ -17,3 +17,9 @@ Examples and practice from Google education CPP https://developers.google.com/ed
 * Book Problem
 * File IO
 * Scopes demostration
+
+##NextSteps
+-----
+* Object Oriented
+* Pointers
+* Makefile
