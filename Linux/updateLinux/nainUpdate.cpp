@@ -1,10 +1,6 @@
 #include <iostream>
 #include <stdlib.h>
 #include <unistd.h>
-#include <iostream>
-#include <fstream>
-
-#include <string>
 
 using namespace std;
 
